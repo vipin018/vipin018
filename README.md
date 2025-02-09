@@ -60,7 +60,11 @@
   <img src="https://img.shields.io/badge/GSAP-%2326a69a.svg?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/React%20Three%20Fiber-%23000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Three Fiber" />
   <img src="https://img.shields.io/badge/GLSL-%23ff8800.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-%231F1F1F.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/ScrollTrigger-%23ff6f61.svg?style=for-the-badge&logo=greensock&logoColor=white" alt="ScrollTrigger" />
+  <img src="https://img.shields.io/badge/Locomotive%20Scroll-%23FF6A5C.svg?style=for-the-badge&logo=locomotive-scroll&logoColor=white" alt="Locomotive Scroll" />
 </p>
+
 
 ### 🛠 Backend & Tools
 <p align="center">
