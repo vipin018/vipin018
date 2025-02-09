@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=vipin018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">Hey there! 👋 I'm Vipin Pathak</h1>
+<h1 align="center">Hey, I’m Vipin Pathak, making code and bad jokes. 👋</h1>
 <h3 align="center">🚀 Frontend Developer | 3D Web Enthusiast | Shader Magician 🪄</h3>
 
 <p align="center">
