@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&weight=600&size=20&pause=1000&color=afafaf&width=580&lines=Crafting+3D+Web+Experiences+with+Three.js+%26+Shaders!;Making+CSS+Behave+One+Div+at+a+Time!;Debugging+More+Than+Watching+Netflix!;Turning+Ideas+into+Interactive+Magic!+✨" alt="Typing Animation" />
 </p>
 
----
+
 
 ## 💫 About Me
 🎯 **Currently mastering**: **React Three Fiber, GLSL shaders, and making buttery-smooth web animations.**  
@@ -26,7 +26,6 @@
 
 ⚡ **Fun fact**: I once spent hours debugging, only to find I was working in the wrong file. True story. 🤡  
 
----
 
 ## 🌍 Connect with Me
 <p align="center">
@@ -41,7 +40,7 @@
   </a>
 </p>
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -69,10 +68,11 @@
 ### 🛠 Backend & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -95,7 +95,7 @@
 
 ---
 
-#### 🚀 "More than just pixels, I craft experiences."
+#### 🚀 "I build websites so people can waste their lives on them."
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
