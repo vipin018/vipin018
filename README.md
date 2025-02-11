@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Frontend Developer | 3D Web Enthusiast | Shader Magician 🪄</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&weight=600&size=20&pause=1000&color=afafaf&width=580&lines=Crafting+3D+Web+Experiences+with+Three.js+%26+Shaders!;Making+CSS+Behave+One+Div+at+a+Time!;Debugging+More+Than+Watching+Netflix!;Turning+Ideas+into+Interactive+Magic!+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&weight=600&size=20&pause=1000&color=afafaf&width=580&lines=Crafting+3D+Web+Experiences+with+Three.js+%26+Shaders!;Making+CSS+Behave+One+Div+at+a+Time!;Debugging+More+Than+Watching+Netflix!;Turning+Ideas+into+Interactive+Magic!+✨" alt="Typing Animation"/>
 </p>
 
 
