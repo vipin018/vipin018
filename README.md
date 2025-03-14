@@ -11,7 +11,6 @@
 </p>
 
 
-
 ## 💫 About Me
 🎯 **Currently mastering**: **React Three Fiber, GLSL shaders, and making buttery-smooth web animations.**  
 
@@ -39,7 +38,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
 
 
 ## 🚀 Tech Stack
