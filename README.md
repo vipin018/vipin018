@@ -94,7 +94,7 @@
 🚀 **Making shaders that don’t break reality.**  
 🔥 **Optimizing Three.js scenes so they don’t cook the user’s GPU.**  
 🤯 **Figuring out why a single missing bracket can ruin my entire day.**  
-🎭 **Finding new ways to make CSS behave.**  
+<!--- 🎭 **Finding new ways to make CSS behave.**   --->
 
 ---
 
