@@ -6,7 +6,7 @@
 <h3 align="center">I write sexy-ass code that sometimes doesn’t work.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FFD580&center=true&vCenter=true&width=500&lines=I+make+cool+web+stuff.;Frontend+dev+with+a+3D+twist.;Shaders%2C+Scrolls%2C+and+Vibes.;No+AI%2C+Just+Pure+Code." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FFD580&center=true&vCenter=true&width=500&lines=I+make+cool+web+stuff.;Frontend+dev+with+a+3D+twist.;Shaders%2C+Scrolls%2C+and+Vibes.;" alt="Aimation" />
 </p>
 
 
