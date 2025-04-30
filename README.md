@@ -1,105 +1,101 @@
-
 <p align="center">
-  <img src= "https://media.giphy.com/media/khl6RE8XNiwxstKNzE/giphy.gif" height="75%">
-</p>
-<!-- Profile Views -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipin018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/khl6RE8XNiwxstKNzE/giphy.gif" height="75%">
 </p>
 
-<h1 align="center">Hey, I’m Vipin Pathak, making code and bad jokes. 👋</h1>
-<h3 align="center">🚀 Frontend Developer | 3D Web Enthusiast | Shader Magician 🪄</h3>
+<h1 align="center">Hi, I’m CurlMooha.</h1>
+<h3 align="center">I write sexy-ass code that sometimes doesn’t work.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&weight=600&size=20&pause=1000&color=afafaf&width=580&lines=Crafting+3D+Web+Experiences+with+Three.js+%26+Shaders!;Making+CSS+Behave+One+Div+at+a+Time!;Debugging+More+Than+Watching+Netflix!;Turning+Ideas+into+Interactive+Magic!+✨" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FFD580&center=true&vCenter=true&width=500&lines=I+make+cool+web+stuff.;Frontend+dev+with+a+3D+twist.;Shaders%2C+Scrolls%2C+and+Vibes.;No+AI%2C+Just+Pure+Code." alt="Typing animation" />
 </p>
 
 
-## 💫 About Me
-🎯 **Currently mastering**: **React Three Fiber, GLSL shaders, and making buttery-smooth web animations.**  
+---
 
-👯 **Looking to collaborate on**: **Mind-blowing 3D web projects**—or at least convincing people that `console.log()` is a real debugging tool.  
+## 🤙 About Me
 
-🛠 **Need help with**: **Making my code work on the first try.** Also, if you've found a **fix for "div inside div inside div" syndrome**, let’s chat.  
+I'm Vipin — your friendly neighborhood frontend dev who makes websites that look like they were coded on a spaceship.
 
-💬 **Ask me about**:  
-- Making the web **interactive, engaging, and 3D** 🌐  
-- Why **semicolons** are the **unsung heroes** of JavaScript 💛  
-- The *dark arts* of aligning elements without breaking your soul 😵  
+- I mess with 3D, shaders, and scroll-based sorcery that makes people go “yo, how’d you do *that*?”
+- CSS and I are in a toxic relationship, but we make it work.
+- Backend? Yeah, I know enough to not break the internet.
 
-⚡ **Fun fact**: I once spent hours debugging, only to find I was working in the wrong file. True story. 🤡  
+Basically, if your site needs to look hot and move like butter, I’m your guy.
 
+---
 
-## 🌍 Connect with Me
+## 🛠 Tools for Building Websites That’ll Eventually Kill Your GPU
+
+### Frontology
 <p align="center">
-  <a href="https://x.com/vpnpathak0" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://instagram.com/vipinpathak0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/vipinpathak0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-
-## 🚀 Tech Stack
-
-### 🎨 Frontend
+### 3Dverse
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-ff6f00?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScrollTrigger-00b894?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Locomotive%20Scroll-E67E22?style=for-the-badge" />
 </p>
 
-### 🔥 3D & Animation Magic
+### Backcraft
 <p align="center">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/GSAP-%2326a69a.svg?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/React%20Three%20Fiber-%23000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Three Fiber" />
-  <img src="https://img.shields.io/badge/GLSL-%23ff8800.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-%231F1F1F.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/ScrollTrigger-%23ff6f61.svg?style=for-the-badge&logo=greensock&logoColor=white" alt="ScrollTrigger" />
-  <img src="https://img.shields.io/badge/Locomotive%20Scroll-%23FF6A5C.svg?style=for-the-badge&logo=locomotive-scroll&logoColor=white" alt="Locomotive Scroll" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
 </p>
 
+---
 
-### 🛠 Backend & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon" />
-</p>
-
-
-## 📊 GitHub Stats
+## Commitcrisis
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vipin018&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin018&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
-<h3 align="center">🔥 My Contributions</h3>
+###  Enduring
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipin018&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
---- 
+---
 
-## 💡 What Keeps Me Up at Night?
-🚀 **Making shaders that don’t break reality.**  
-🔥 **Optimizing Three.js scenes so they don’t cook the user’s GPU.**  
-🤯 **Figuring out why a single missing bracket can ruin my entire day.**  
-<!--- 🎭 **Finding new ways to make CSS behave.**   --->
+## 🌐 Hit Me Up
+
+<p align="center">
+  <a href="https://x.com/curllmooha" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/vipinpathak0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vipinpathak0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-#### 🚀 "I build websites so people can waste their lives on them."
+## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
+
+---
+
+### MicDrop
+
+> _"I build websites so people can waste their lives on them."_ — Also me, probably while debugging.
+
+---
+
