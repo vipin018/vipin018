@@ -75,7 +75,7 @@ Basically, if your site needs to look hot and move like butter, I’m your guy.
   <a href="https://x.com/curllmooha" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://instagram.com/vipinpathak0" target="_blank">
+  <a href="https://instagram.com/curllmooha" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vipinpathak0/" target="_blank">
