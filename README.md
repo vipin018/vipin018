@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/khl6RE8XNiwxstKNzE/giphy.gif" height="75%">
 </p>
 
-<h1 align="center">Hi, I’m CurlMooha.</h1>
+<h1 align="center">YOOOOOO.</h1>
 <h3 align="center">I write sexy-ass code that sometimes doesn’t work.</h3>
 
 <p align="center">
