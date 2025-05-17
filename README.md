@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=22&pause=1000&color=FFD580&center=true&vCenter=true&width=500&lines=I+make+cool+web+stuff.;Frontend+dev+with+a+3D+twist.;Shaders%2C+Scrolls%2C+and+Vibes.;" alt="Aimation" />
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin018&label=Profile%20views&color=0e75b6&style=flat" alt="vipin018" /> </p>
 
 ---
 
