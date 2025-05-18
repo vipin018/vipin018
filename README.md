@@ -58,13 +58,13 @@ Basically, if your site needs to look hot and move like butter, I’m your guy.
 
 ## Commitcrisis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipin018&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin018&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vipin018&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin018&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ###  Enduring
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipin018&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipin018&theme=github_dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
