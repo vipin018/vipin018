@@ -72,6 +72,9 @@ Basically, if your site needs to look hot and move like butter, I’m your guy.
 ## 🌐 Hit Me Up
 
 <p align="center">
+   <a href="mailto:vipinpathak018@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://x.com/curllmooha" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
@@ -81,7 +84,9 @@ Basically, if your site needs to look hot and move like butter, I’m your guy.
   <a href="https://www.linkedin.com/in/vipinpathak0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+ 
 </p>
+
 
 ---
 
